@@ -1,7 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a32005-4b72-4633-bb54-3e527fb8e0a2" name="Default" comment="" />
+    <list default="true" id="14a32005-4b72-4633-bb54-3e527fb8e0a2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/testng-failed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/Geico insurance company/testng-failed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/testng-failed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/Geico insurance company/testng-failed.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HealthFirst/target/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetLife/target/surefire/surefire4498387144308761224tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetLife/target/surefire/surefire_47349515886396101547tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MetLife/target/surefire/surefirebooter7844424648313715151.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/Testing/CommoneApi.class" afterPath="$PROJECT_DIR$/Generic/target/classes/Testing/CommoneApi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/GernricPom-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/GernricPom-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/HealthfirstPom-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/HealthFirst/target/HealthfirstPom-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/test-classes/erail/ScrollOption.class" afterPath="$PROJECT_DIR$/IndianRailways/target/test-classes/erail/ScrollOption.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/test-classes/metLife/YourInfo.class" afterPath="$PROJECT_DIR$/MetLife/target/test-classes/metLife/YourInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/screenShort.jpg" afterPath="$PROJECT_DIR$/IndianRailways/screenShort.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/screenShort.jpg" afterPath="$PROJECT_DIR$/JQuery/screenShort.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/screenShort1.jpg" afterPath="$PROJECT_DIR$/IndianRailways/screenShort1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon company/Amazon LogIn.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon company/Amazon LogIn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon company/Amazon LogIn.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon company/Amazon LogIn.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" afterPath="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/test-classes/ChaRunner.xml" afterPath="$PROJECT_DIR$/Characterarcade/target/test-classes/ChaRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/Testing/CommoneApi.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/Testing/CommoneApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/Geico insurance company/Geico LogIn tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/Geico insurance company/Geico LogIn tab.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/src/test/resources/HealthRunner.xml" afterPath="$PROJECT_DIR$/HealthFirst/src/test/resources/HealthRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/test-classes/HealthRunner.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/test-classes/HealthRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml" afterPath="$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/test-classes/IndianRunner.xml" afterPath="$PROJECT_DIR$/IndianRailways/target/test-classes/IndianRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/src/test/resources/JqueryRunner.xml" afterPath="$PROJECT_DIR$/JQuery/src/test/resources/JqueryRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/test-classes/JqueryRunner.xml" afterPath="$PROJECT_DIR$/JQuery/target/test-classes/JqueryRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml" afterPath="$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/test-classes/MetRunner.xml" afterPath="$PROJECT_DIR$/MetLife/target/test-classes/MetRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/src/test/java/erail/ScrollOption.java" afterPath="$PROJECT_DIR$/IndianRailways/src/test/java/erail/ScrollOption.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/junitreports/TEST-Jquery.Handelwiondows.xml" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/junitreports/TEST-Jquery.Handelwiondows.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/junitreports/TEST-Jquery.MultipleScreenShort.xml" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/junitreports/TEST-Jquery.MultipleScreenShort.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-amazon.DropDownList.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-amazon.DropDownList.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/junitreports/TEST-characterarcade.IFrame.xml" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/junitreports/TEST-characterarcade.IFrame.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/junitreports/TEST-erail.ScrollOption.xml" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/junitreports/TEST-erail.ScrollOption.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/junitreports/TEST-healthFirst.HoverMouse.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/junitreports/TEST-healthFirst.HoverMouse.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/junitreports/TEST-healthFirst.LinkList.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/junitreports/TEST-healthFirst.LinkList.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/junitreports/TEST-metLife.DragDrop.xml" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/junitreports/TEST-metLife.DragDrop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/junitreports/TEST-metLife.YourInfo.xml" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/junitreports/TEST-metLife.YourInfo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/TestSuite-output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/TestSuite-output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/TestSuite-output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/src/test/java/metLife/YourInfo.java" afterPath="$PROJECT_DIR$/MetLife/src/test/java/metLife/YourInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/classes.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/classes.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/classes.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/classes.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/classes.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/classes.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/HealthFirst/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Characterarcade/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/HealthFirst/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/IndianRailways/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/JQuery/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/MetLife/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/methods.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/methods.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/methods.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/methods.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/methods.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/HealthFirst/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon company/testng-failed.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon company/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/Geico insurance company/testng-failed.xml" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/Geico insurance company/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/Geico insurance company/testng-failed.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/Geico insurance company/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/Geico insurance company/testng-failed.xml" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/Geico insurance company/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/testng.xml.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/testng.xml.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/testng.xml.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/testng.xml.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/testng.xml.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/testng.xml.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/toc.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon company/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/toc.html" afterPath="$PROJECT_DIR$/Characterarcade/target/surefire-reports/old/Geico insurance company/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/toc.html" afterPath="$PROJECT_DIR$/HealthFirst/target/surefire-reports/old/Geico insurance company/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/toc.html" afterPath="$PROJECT_DIR$/IndianRailways/target/surefire-reports/old/Geico insurance company/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/toc.html" afterPath="$PROJECT_DIR$/JQuery/target/surefire-reports/old/Geico insurance company/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/toc.html" afterPath="$PROJECT_DIR$/MetLife/target/surefire-reports/old/Geico insurance company/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FirstMentoringPorject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,72 +171,31 @@
     <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="FirstMentoringPorject" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AmazonRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HealthRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HealthFirst/src/test/resources/HealthRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChaRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndianRunner.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IndianRunner.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JqueryRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JQuery/src/test/resources/JqueryRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MetRunner.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="444">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.11029412" vertical-offset="0" max-vertical-offset="680">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -112,22 +213,22 @@
         <option value="$PROJECT_DIR$/MetLife/pom.xml" />
         <option value="$PROJECT_DIR$/MetLife/src/test/java/metLife/DragDrop.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/amazon/DropDownList.java" />
-        <option value="$PROJECT_DIR$/MetLife/src/test/java/metLife/YourInfo.java" />
         <option value="$PROJECT_DIR$/IndianRailways/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/Testing/CommoneApi.java" />
-        <option value="$PROJECT_DIR$/IndianRailways/src/test/java/erail/ScrollOption.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/facebook/Login.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookLoginRunner.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Characterarcade/src/test/java/characterarcade/IFrame.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
+        <option value="$PROJECT_DIR$/MetLife/src/test/java/metLife/YourInfo.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/Testing/CommoneApi.java" />
+        <option value="$PROJECT_DIR$/IndianRailways/src/test/java/erail/ScrollOption.java" />
+        <option value="$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml" />
+        <option value="$PROJECT_DIR$/JQuery/src/test/resources/JqueryRunner.xml" />
         <option value="$PROJECT_DIR$/HealthFirst/src/test/resources/HealthRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
         <option value="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" />
         <option value="$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml" />
-        <option value="$PROJECT_DIR$/JQuery/src/test/resources/JqueryRunner.xml" />
-        <option value="$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml" />
       </list>
     </option>
   </component>
@@ -151,30 +252,6 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
       </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="MentoringprojectPom" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="MentoringprojectPom" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
     </treeState>
   </component>
   <component name="MavenRunner">
@@ -191,12 +268,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="38" />
-    <option name="width" value="1205" />
+    <option name="x" value="33" />
+    <option name="y" value="23" />
+    <option name="width" value="1112" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -219,6 +296,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,102 +311,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SeleniumBootCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FirstMentoringPorject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SeleniumBootCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Characterarcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FirstMentoringPorject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SeleniumBootCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Characterarcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FirstMentoringPorject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SeleniumBootCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Characterarcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="characterarcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FirstMentoringPorject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SeleniumBootCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Characterarcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="SeleniumFrameworkLab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,10 +327,10 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="reference.settings.project.maven.runner" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyMentoringProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="dynamic.classpath" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
@@ -352,13 +341,43 @@
       <recent name="$PROJECT_DIR$/Facebook" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Characterarcade/src/test/resources/ChaRunner.xml">
-    <configuration default="false" name="$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration default="false" name="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="IndianRailways" />
+      <module name="Characterarcade" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Characterarcade" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -473,61 +492,10 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Characterarcade" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -550,6 +518,27 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -581,6 +570,19 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -607,19 +609,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -679,21 +668,12 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/IndianRailways/src/test/resources/IndianRunner.xml" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml (1)" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml (2)" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Characterarcade/src/test/resources/ChaRunner.xml" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumFrameworkLab/Characterarcade/src/test/resources/ChaRunner.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumFrameworkLab/Characterarcade/src/test/resources/ChaRunner.xml (1)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumFrameworkLab/Facebook/src/test/resources/FacebookRunner.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumFrameworkLab/Facebook/src/test/resources/FacebookRunner.xml (1)" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumFrameworkLab/Facebook/src/test/resources/FacebookRunner.xml (2)" />
     </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Characterarcade/src/test/resources/ChaRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml (2)" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml (1)" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG./Users/salahakanda/IdeaProjects/SeleniumBootCamp/IndianRailways/src/test/resources/IndianRunner.xml" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -706,8 +686,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="38" width="1205" height="777" extended-state="0" />
-    <editor active="false" />
+    <frame x="33" y="23" width="1112" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -716,23 +696,23 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15406977" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14190872" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23201439" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.186722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20233813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15406977" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3361582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -762,13 +742,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetLife/src/test/java/metLife/DragDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetLife/src/test/java/metLife/YourInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="975">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Testing/CommoneApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1875">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="465">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="536" max-vertical-offset="1050">
           <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="825">
           <caret line="47" column="17" selection-start-line="44" selection-start-column="4" selection-end-line="47" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,7 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
           <caret line="13" column="49" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,9 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1710" max-vertical-offset="1875">
           <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,7 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="536" max-vertical-offset="1050">
           <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="825">
           <caret line="47" column="17" selection-start-line="44" selection-start-column="4" selection-end-line="47" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
           <caret line="13" column="49" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,7 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,9 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1845">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,9 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5502249" vertical-offset="383" max-vertical-offset="1050">
           <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,7 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.82008994" vertical-offset="158" max-vertical-offset="825">
           <caret line="47" column="17" selection-start-line="44" selection-start-column="4" selection-end-line="47" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,15 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46026987" vertical-offset="128" max-vertical-offset="795">
           <caret line="29" column="21" selection-start-line="20" selection-start-column="4" selection-end-line="46" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HealthFirst/src/test/java/healthFirst/HoverMouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,25 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="735">
           <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HealthFirst/src/test/java/healthFirst/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6804734" vertical-offset="0" max-vertical-offset="507">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazon/DropDownList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="645">
-          <caret line="18" column="20" selection-start-line="14" selection-start-column="9" selection-end-line="24" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,23 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6666667" vertical-offset="300" max-vertical-offset="825">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Testing/CommoneApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="3210">
-          <caret line="104" column="26" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#3388#3389#0" expanded="false" />
-            <element signature="e#3449#3450#0" expanded="false" />
-            <element signature="e#4037#4038#0" expanded="false" />
-            <element signature="e#4110#4111#0" expanded="false" />
-            <element signature="e#6721#6722#0" expanded="false" />
-            <element signature="e#6774#6775#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1037,39 +964,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IndianRailways/src/test/java/erail/ScrollOption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8863636" vertical-offset="45" max-vertical-offset="570">
-          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JQuery/src/test/java/Jquery/MultipleScreenShort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.397351" vertical-offset="0" max-vertical-offset="453">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetLife/src/test/java/metLife/DragDrop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62913907" vertical-offset="0" max-vertical-offset="453">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MetLife/src/test/java/metLife/YourInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48863637" vertical-offset="460" max-vertical-offset="1065">
-          <caret line="45" column="17" selection-start-line="44" selection-start-column="7" selection-end-line="47" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1077,15 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.73333335" vertical-offset="300" max-vertical-offset="810">
           <caret line="42" column="12" selection-start-line="20" selection-start-column="4" selection-end-line="46" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56666666" vertical-offset="0" max-vertical-offset="1155">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,7 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.69777775" vertical-offset="331" max-vertical-offset="810">
           <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,7 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.56666666" vertical-offset="375" max-vertical-offset="825">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,54 +996,106 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8063063" vertical-offset="92" max-vertical-offset="585">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetLife/src/test/java/metLife/DragDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetLife/src/test/java/metLife/YourInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8161765" vertical-offset="105" max-vertical-offset="975">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazon/DropDownList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthFirst/src/test/java/healthFirst/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthFirst/src/test/java/healthFirst/HoverMouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Testing/CommoneApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2093" max-vertical-offset="2820">
+          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51724136" vertical-offset="15" max-vertical-offset="1155">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
+    <entry file="file://$PROJECT_DIR$/IndianRailways/src/test/java/erail/ScrollOption.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="46" />
-          <folding />
+        <state vertical-scroll-proportion="0.50442475" vertical-offset="0" max-vertical-offset="565">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HealthFirst/src/test/resources/HealthRunner.xml">
+    <entry file="file://$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.54298645" vertical-offset="0" max-vertical-offset="442">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JQuery/src/test/resources/JqueryRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
+        <state vertical-scroll-proportion="0.47511312" vertical-offset="0" max-vertical-offset="442">
+          <caret line="14" column="54" selection-start-line="13" selection-start-column="11" selection-end-line="14" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MetLife/src/test/resources/MetRunner.xml">
+    <entry file="file://$PROJECT_DIR$/HealthFirst/src/test/resources/HealthRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="444">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.47511312" vertical-offset="0" max-vertical-offset="442">
+          <caret line="14" column="48" selection-start-line="13" selection-start-column="11" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44117647" vertical-offset="0" max-vertical-offset="442">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Characterarcade/src/test/resources/ChaRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44117647" vertical-offset="0" max-vertical-offset="442">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndianRailways/src/test/resources/IndianRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11029412" vertical-offset="0" max-vertical-offset="680">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding />
         </state>
       </provider>

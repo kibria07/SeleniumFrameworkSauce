@@ -4,23 +4,19 @@
   <parameter name="OS" value="WIN8"/>
   <parameter name="browserVersion" value="33"/>
   <parameter name="browserName" value="firefox"/>
-  <parameter name="useSauceLabs" value="true"/>
-  <parameter name="userName" value="akanda_salahuddin"/>
-  <parameter name="url" value="http://www.jquery.com/"/>
-  <parameter name="key" value="b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb"/>
+  <parameter name="useSauceLabs" value="false"/>
+  <parameter name="userName" value="akanda_salahuddin1"/>
+  <parameter name="url" value="http://erail.in/"/>
+  <parameter name="key" value="c5fc8bbb-013e-41b2-98a1-dbd904ff66e6"/>
   <test name="Geico LogIn tab(failed)" parallel="tests">
     <classes>
-      <class name="Jquery.MultipleScreenShort">
+      <class name="erail.ScrollOption">
         <methods>
-          <include name="screenShort"/>
-        </methods>
-      </class> <!-- Jquery.MultipleScreenShort -->
-      <class name="Jquery.Handelwiondows">
-        <methods>
+          <include name="closeUrl"/>
+          <include name="Scrolling"/>
           <include name="navigationUrl"/>
-          <include name="test"/>
         </methods>
-      </class> <!-- Jquery.Handelwiondows -->
+      </class> <!-- erail.ScrollOption -->
     </classes>
   </test> <!-- Geico LogIn tab(failed) -->
 </suite> <!-- Failed suite [Geico insurance company] -->

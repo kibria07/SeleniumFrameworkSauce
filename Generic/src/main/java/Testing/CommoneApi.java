@@ -30,7 +30,7 @@ public class CommoneApi {
     public void navigationUrl(@Optional("false")boolean useSauceLabs,@Optional("http://www.cnn.com")String url,
                               @Optional("Windows 7")String OS,
                               @Optional("firefox")String browserName, @Optional("22")String browserVersion,
-                              @Optional("akanda_salahuddin")String userName, @Optional("b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb")
+                              @Optional("akanda_salahuddin1")String userName, @Optional("c5fc8bbb-013e-41b2-98a1-dbd904ff66e6")
     String key)throws IOException{
         if(useSauceLabs==true){
             getSauceLabsDriver(OS,browserName,browserVersion,userName,key);

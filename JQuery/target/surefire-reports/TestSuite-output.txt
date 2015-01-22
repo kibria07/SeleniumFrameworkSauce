@@ -1,2 +1,2 @@
-Donate | jQuery Foundation
+Virtual Machine (VM), Windows Virtual PC & Browserstack | Modern.IE
 jQuery
